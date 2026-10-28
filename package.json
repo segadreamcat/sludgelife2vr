@@ -1,0 +1,12 @@
+{
+  "profile": "SludgeLife2VR",
+  "gameName": "SLUDGE LIFE 2",
+  "gameFolder": "SLUDGE LIFE 2",
+  "exe": "SludgeLife2.exe",
+  "process": "SludgeLife2",
+  "dataFolder": "SludgeLife2_Data",
+  "appId": "2275150",
+  "version": "0.9.23",
+  "openvrPatch": false,
+  "releaseLabel": "Beta v1"
+}

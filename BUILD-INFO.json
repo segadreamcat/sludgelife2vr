@@ -1,0 +1,13 @@
+{
+  "version": "0.9.23",
+  "game": "SLUDGE LIFE 2",
+  "profile": "SludgeLife2VR",
+  "pluginSha256": "BD11E1D7A7AD898F2E1F18812CD1F60A48DF1F695126ADD3D29F99FCCFFCEB82",
+  "runtimeRelease": "BepInEx_win_x64_5.4.23.4",
+  "runtimeArchiveSha256": "F881201B79DA03E513BF97CDF39607FFA7F9E0D31A519B1AEECA8EB60F8309E7",
+  "doorstopVersion": "4.4.1",
+  "testedHeadsetSetup": "Quest 3 / Virtual Desktop / SteamVR",
+  "latestUiSlugAudioChangesNeedHeadsetTesting": true,
+  "releaseLabel": "Beta v1",
+  "madeUsing": "OpenAI Codex"
+}

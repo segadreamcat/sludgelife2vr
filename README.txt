@@ -1,0 +1,1 @@
+Source for SLUDGE LIFE 2 VR - Beta v1 (internal mod build 0.9.23). To rebuild, use build.ps1 -GamePath "your game folder" after installing the included loader. The game supplies its own Managed references; no game assemblies are included. The binary used by INSTALL.cmd is in Payload, not this Source folder.

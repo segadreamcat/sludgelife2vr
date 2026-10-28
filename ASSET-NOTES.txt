@@ -1,0 +1,5 @@
+This is an unofficial VR beta mod. SLUDGE LIFE and SLUDGE LIFE 2 belong to their respective creators and publishers. The games credit Terri Vellmann, doseone and Devolver Digital.
+
+Game hand/character meshes, animations, materials and audio are read from the player's installed game at runtime. Small derived collision/pose data used by the mod is embedded in the plugin. The source snapshot includes the corresponding generated build resources.
+
+The custom spray-can mesh was supplied for this project as source/spraycan_LP.FBX.fbx. The source archive did not include an author or license document; no separate authorship or license is claimed here. The mod uses a flat recoloring of that supplied mesh. The hand styling and ant tattoo follow project-owner references. No Blue Prince game assets are shipped.
